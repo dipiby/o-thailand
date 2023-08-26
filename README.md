@@ -1,2 +1,2 @@
 # o-thailand
-о Таиланде
+<p><a href="https://o-thailand.ru/">о Таиланде</a></p>
